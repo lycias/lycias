@@ -28,10 +28,25 @@ Independent replication and probabilistic sensitivity analysis of a cost-effecti
 
 ## 🛠️ Skills & Tools
 
-**Programming & Analysis:** Python · R · SQL · Monte Carlo simulation · Statistical modeling\
-**Data Visualization:** Plotly · ggplot2 · Tableau\
-**Health Economics:** Cost-effectiveness analysis · PSA · Threshold analysis · Budget impact modeling\
-**Tools:** Google Colab · Jupyter · Git · Excel/VBA
+### Health Economics & Evaluation
+
+**Methods:** Cost-effectiveness analysis (CEA/CUA) · Probabilistic sensitivity analysis (PSA) · Budget impact modeling · Markov cohort models · Decision tree analysis · Threshold and value of information analysis · QALY/DALY estimation · Health technology assessment (HTA) · Economic evaluation frameworks
+
+**Tools:** Python (NumPy, SciPy, Pandas) · R (heemod, dampack) · TreeAge · Excel/VBA modeling · Monte Carlo simulation
+
+### Data Science & Machine Learning
+
+**Programming:** Python · R · SQL · Git · Bash/Shell scripting
+
+**Core ML/AI:** Supervised learning (regression, classification) · Unsupervised learning (clustering, dimensionality reduction) · Deep learning · Neural networks · Natural language processing (NLP) · Computer vision · Time series forecasting · Causal inference · A/B testing
+
+**Libraries & Frameworks:** scikit-learn · TensorFlow · PyTorch · Keras · XGBoost · Statsmodels · NLTK · spaCy
+
+**Data Analysis:** Feature engineering · Model evaluation & validation · Cross-validation · Hyperparameter tuning · Exploratory data analysis (EDA) · Data preprocessing & cleaning · Statistical hypothesis testing
+
+### Visualization & Communication
+
+Plotly · Matplotlib · Seaborn · ggplot2 · Tableau · Interactive dashboards · Jupyter Notebooks · Google Colab · Markdown documentation
 
 ---
 
